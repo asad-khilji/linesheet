@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "name": "Men’s Premium Leather Jacket",
+      "code": "10.ZO",
+      "price": "",
+      "image": "https://unikinternational.com/cdn/shop/files/0312.00_-_Mens_Classic_M.C._Leather_Jacket.jpg?v=1752784214",
+      "features": [
+        "3 outside pockets",
+        "2 inside pockets",
+        "Silver hardware",
+        "Zip out liner"
+      ],
+      "sizes": {
+        "labels": ["S","M","L","XL","2XL","3XL","4XL","5XL","6XL","7XL"],
+        "values": ["23","32","44","34","43","43","23","32","12","34"]
+      }
+    }
+  ]
+}
+     
